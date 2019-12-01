@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/neverexp/public_html/
+    - /bin/cp -R images $DEPLOYPATH
