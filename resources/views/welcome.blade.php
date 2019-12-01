@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    This Website is under construction
                 </div>
 
                 <div class="links">
